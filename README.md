@@ -14,11 +14,11 @@
 
 ###
 
-<h1 align="center">hey there 👋 Shaunak Soni Here !!</h1>
+<h1 align="center">hey there Shaunak Soni Here !!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> My Stats :</h3>
 
 ###
 
