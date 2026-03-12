@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">hey there Shaunak Soni Here !!</h1>
+<h1 align="center">Hey there Shaunak Soni Here !!</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 ###
 
